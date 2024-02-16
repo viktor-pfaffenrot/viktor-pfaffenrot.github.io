@@ -1,0 +1,58 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: <a href="https://hahn-institut.de/de" target="_blank">Erwin L. Hahn Institute for MRI</a>
+    i18n: company_a
+  desc:
+    detail: technical support for fMRI studies
+    i18n: company_a_desc
+  date:
+    detail: Dec. 2022 
+    i18n: company_a_date
+  job:
+    detail: MR physicist
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: <a href="https://hahn-institut.de/de" target="_blank">Erwin L. Hahn Institute for MRI</a>
+    i18n: company_a
+  desc:
+    detail: laminar fMRI / sequence programming at 7 T
+    i18n: company_a_desc
+  date:
+    detail: June 2022 
+    i18n: company_a_date
+  job:
+    detail: Postdoctoral Fellow
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: <a href="https://hahn-institut.de/de" target="_blank">Erwin L. Hahn Institute for MRI</a> <br /> / Donders Institute
+    i18n: company_a
+  desc:
+    detail: laminar fMRI / sequence programming at 7 T
+    i18n: company_a_desc
+  date:
+    detail: 'Mar. 2017 - Dec. 2022' 
+    i18n: company_a_date
+  job:
+    detail: PhD Student
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: University Hospital Essen
+    i18n: company_b
+  desc:
+    detail: fMRI of patients and healthy participants
+    i18n: company_b_desc
+  date:
+    detail: 'Nov. 2015 - Mar. 2017' 
+    i18n: company_b_date
+  job:
+    detail: Research Assistant
+    i18n: company_b_job
+  icon: fa-plus-square

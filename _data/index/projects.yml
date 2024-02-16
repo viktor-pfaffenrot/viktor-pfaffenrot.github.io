@@ -1,0 +1,36 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Bonsai Notifier
+  i18n: Markdown
+  gh_user: vipfa100
+  repo: bonsai-notifier
+  img: /static/assets/img/landing/bonsai_notifier_logo.png
+  desc: Small graphical bonsai maintenance app written in Python using customtkinter and SQLite.
+
+- name: Thesis
+  i18n: Markdown
+  gh_user: vipfa100
+  repo: PhD-thesis
+  img: /static/assets/img/landing/thesis_logo.png
+  desc: My PhD thesis for easy sharing.
+  
+- name: hippocampus laminar fMRI
+  i18n: Markdown
+  gh_user: vipfa100
+  repo: hippocampus_laminarfMRI_code
+  img: /static/assets/img/landing/logo_hippocampus_layer_code.png
+  desc: Code to process, analyze, visualize etc. laminar fMRI data of the human hippocampus.
+  
+- name: Laminar fMRI of the perception of pain
+  i18n: Markdown
+  gh_user: vipfa100
+  repo: laminar-fMRI-of-the-perception-of-pain
+  img: /static/assets/img/landing/logo_pain_layer_code.png
+  desc: Repository containing all the scripts used to process and analyze laminar fMRI data of pain perception.
+
+#- name: Google
+#  i18n: google
+#  url: https://google.com
+#  img: /static/assets/img/landing/google.png
+#  desc: This is another project.
