@@ -1,0 +1,28 @@
+# - name:
+#   date:
+#   conference:
+#   video:
+#   web:
+
+- name: "Principles and practices of laminar functional MRI"
+  date: Nov. 2023
+  conference: Neurophysiological seminar, University hospital Essen, Germany
+
+- name: "Contrast mechanisms for laminar fMRI: sensitivity vs. specificity"
+  date: Oct. 2022
+  conference: Erwin L. Hahn workshop, Essen, Germany
+  video: https://www.youtube.com/watch?v=fcFcNbYVaHY
+
+- name: "Laminar fMRI with MT-prepared multi-echo FLASH"
+  date: Oct. 2021
+  conference: Erwin L. Hahn workshop, Essen, Germany
+
+- name: "An 8/15-Channel Tx/Rx Head Neck RF Coil Combination with Semi-Dynamic B1 Shimming for Improved fMRI of the Cerebellum at 7T"
+  date: Oct. 2017
+  conference: Erwin L. Hahn workshop, Essen, Germany
+  
+- name: "An 8/15-Channel Tx/Rx Head Neck RF coil Combination with Semi-Dynamic B1+ Shimming for Improved fMRI of the Cerebellum at 7 T"
+  date: Apr. 2017
+  conference: 25th ISMRM Annual Meeting, Honolulu, HI, USA
+
+

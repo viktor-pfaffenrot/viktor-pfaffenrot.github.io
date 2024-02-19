@@ -1,0 +1,66 @@
+
+# - name:
+#   authors:
+#   date:
+#   journal:
+#   doi:
+#   osf:
+#   web:
+#   github:
+
+
+- name: "Age-Related Differences of Cerebellar Cortex and Nuclei: MRI findings in Healthy Controls and its Application to Spinocerebellar Ataxia (SCA6) Patients"
+  authors: Jäschke D., Steiner K. M., Chang D., Claaßen J. et al.
+  date: 2023
+  journal: NeuroImage
+  doi: 10.1016/j.neuroimage.2023.119950
+ 
+- name: "Magnetization Transfer weighted laminar fMRI with multi-echo FLASH"
+  authors: Pfaffenrot V., Koopmans P. J.
+  date: 2022
+  journal: NeuroImage
+  doi: 10.1016/j.neuroimage.2022.119725
+
+- name: "Quantitative susceptibility mapping reveals alterations of dentate nuclei in common types of degenerative cerebellar ataxias"
+  authors: Deistung A., Jäschke D., Draganova R., Pfaffenrot V., et al.
+  date: 2022
+  journal: Brain Communications
+  doi: 10.1093/braincomms/fcab306
+
+- name: "Neurostructural changes and declining senorimoter function due to cerebellar cortical degeneration"
+  authors: Draganova R., Pfaffenrot V., Steiner K. M., Göricker S. L., et al.
+  date: 2021
+  journal: Journal of Neurophysiology
+  doi: 10.1152/jn.00266.2020
+
+- name: "Laminar fMRI using T2-prepared multi-echo FLASH"
+  authors: Pfaffenrot V., Voelker M. N., Kashyap S., Koopmans P. J.
+  date: 2021
+  journal: NeuroImage
+  doi: 10.1016/j.neuroimage.2021.118163
+
+- name: "Enhanced POCS reconstruction for partial Fourier imaging in multi-echo and time-series acquisitions"
+  authors: Koopmans P. J., Pfaffenrot V.
+  date: 2021
+  journal: Magnetic Resonance in Medicine
+  doi:  10.1002/mrm.28417
+
+- name: "An 8/15-channel Tx/Rx head neck RF coil combination with region-specific B1+ shimming for whole brain MRI focused on the cerebellum at 7 Tesla"
+  authors: Pfaffenrot V., Brunheim S., Rietsch S. H. G., Koopmans P. J., et al.
+  date: 2018
+  journal: Magentic Resonance in Medicine
+  doi:  10.1002/mrm.27125
+
+- name: "Variable slice thickness (VAST) EPI for the reduction of susceptibility artifacts in whole-brain GE-EPI at 7 Tesla"
+  authors: Brunheim S., Johst S., Pfaffenrot V., Quick H. H., et al.
+  date: 2017
+  journal: MAGMA
+  doi: 10.1007/s10334-017-0641-0
+
+- name: "An 8-channel transceiver 7-channel receive RF coil setup for high SNR ultrahigh-field MRI of the shoulder at 7T"
+  authors: Rietsch S. H. G., Pfaffenrot V., Bitz A. K., Orzada S., et al.
+  date: 2017
+  journal: Medical Physics
+  doi: 10.1002/mp.12612
+
+
