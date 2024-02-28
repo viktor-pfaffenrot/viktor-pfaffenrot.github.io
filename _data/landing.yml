@@ -35,7 +35,12 @@
   name: Talks
   tpl: dummy.html
   page: blog/talks.html
-
+  
+- id: certificates
+  i18n: nav.certificates
+  name: Certificates
+  tpl: dummy.html
+  page: blog/certificates.html
 
 
 #- id: blog
