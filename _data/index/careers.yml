@@ -2,6 +2,20 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
+    detail: <a href="https://www.landeskrebsregister.nrw/" target="_blank">Cancer Registry North Rhine-Westfalia</a>
+    i18n: company_a
+  desc:
+    detail: managing and evaluating cancer data
+    i18n: company_a_desc
+  date:
+    detail: Aug. 2024 
+    i18n: company_a_date
+  job:
+    detail: Data Scientist
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: <a href="https://hahn-institut.de/de" target="_blank">Erwin L. Hahn Institute for MRI</a>
     i18n: company_a
   desc:
