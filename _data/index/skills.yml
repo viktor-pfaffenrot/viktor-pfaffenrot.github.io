@@ -2,7 +2,7 @@
 
 label: Ability
 id : cs
-aspects: MATLAB, Python, C++, Git, R, Machine Learing, SQL (Postgres),Statistics (GLM / LMM), MR physics, IDEA, LaTex, fMRI data analysis
+aspects: MATLAB, Python, C++, Git, R, Machine Learing, SQL (Postgres), Statistics (GLM / LMM), MR physics, IDEA, LaTex, fMRI data analysis
 # MR seq. prog, LaTex, fMRI data analysis (SPM,FSL)
-percentage: 90, 70, 55,45,30, 30, 50, 70, 90, 70, 60, 75
+percentage: 90, 70, 55, 55, 50, 40, 50, 70, 90, 70, 60, 75
 #, 45, 90, 70, 60, 75
