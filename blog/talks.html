@@ -35,13 +35,14 @@ permalink: /blog/talks.html
                             {% endif %}
                         </span>
                     </h1>
-                    <!--
+                    
+                    {% if talk.web %}
                     <h2>
                         <span>
                             <a href="{{ talk.web }}">Slides</a>
                         </span>
                     </h2>
-                    -->
+                    {% endif %}
 
                     {% if loopindex == 1 %}
                     <span class="vertical-date" style="justify-content: flex-start">
