@@ -2,8 +2,8 @@
 
 label: Ability
 id : cs
-aspects: R, Python, PostgreSQL, AI Engineering, NLP, Machine Learning, Git, Survival Analysis, Statistics, MR physics, Data Visualization, Data Wrangling
-percentage: 90, 70, 70, 50, 60, 60, 60, 60, 80, 90, 90, 90
+aspects: R, Python, PostgreSQL, AI Engineering, Agentic AI, NLP, Machine Learning, Git, Survival Analysis, Statistics, MR physics, Data Visualization, Data Wrangling
+percentage: 90, 70, 70, 50, 40, 60, 60, 60, 60, 80, 90, 90, 90
 #aspects: MATLAB, Python, C++, Git, R, Machine Learing, SQL (Postgres), Statistics (GLM / LMM), MR physics, IDEA, LaTex, fMRI data analysis
 # MR seq. prog, LaTex, fMRI data analysis (SPM,FSL)
 #percentage: 90, 70, 55, 55, 50, 40, 50, 70, 90, 70, 60, 75
